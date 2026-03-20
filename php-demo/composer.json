@@ -1,0 +1,6 @@
+{
+  "name": "raveendra/php-demo",
+  "description": "Simple PHP Hello World application",
+  "type": "project",
+  "require": {}
+}
